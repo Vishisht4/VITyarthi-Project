@@ -1,6 +1,5 @@
 # VITyarthi-Project
 
-# snake-game-for-vityarhi-project
 # 🐍 Snake Game in Python
 
 A simple and interactive Snake Game developed using **Python** and the **Pygame** library.
