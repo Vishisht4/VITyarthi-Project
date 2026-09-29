@@ -133,4 +133,3 @@ Possible improvements include:
 
 **Vishisht Bhanpuriya**
 
-ed for educational and learning purposes.
